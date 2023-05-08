@@ -1,1 +1,1 @@
-# NLP
+In this project, we adopt multiple techniques to pre-process and clean an existing labeled dataset, as well as fine-tune a classifier in order to classify emotion in a given tweet into one of the basic emotion categories.
